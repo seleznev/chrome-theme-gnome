@@ -36,12 +36,12 @@
       "ntp_background_repeat": "no-repeat"
     },
     "tints": {
-      "buttons": [0, 0, 0.49019607843137],
-      "frame": [0, 0, 0.49019607843137],
-      "frame_inactive": [0, 0, 0.49019607843137],
-      "frame_incognito": [0, 0, 0.49019607843137],
-      "frame_incognito_inactive": [0, 0, 0.49019607843137],
-      "background_tab": [0, 0, 0.49019607843137]
+      "buttons": [0, 0, 0.50],
+      "frame": [0, 0, 0.50],
+      "frame_inactive": [0, 0, 0.50],
+      "frame_incognito": [0, 0, 0.50],
+      "frame_incognito_inactive": [0, 0, 0.50],
+      "background_tab": [0, 0, 0.50]
     }
   }
 }
